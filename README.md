@@ -1,5 +1,7 @@
 # Detecting Coconut Trees from the Air in the South Pacific (Tonga)
 
+![tile05](tile05.jpg)
+
 ## Motivation & Sources
 
 - https://werobotics.org/blog/2018/01/10/open-ai-challenge/
@@ -24,7 +26,7 @@
 
 ## Pre-processing overview:
 
-![coconut-preprocessing-steps](https://photos-1.dropbox.com/t/2/AADeOpwuLvfX6Zf5rc1_cSYfycPZq5ov_tKS_0FhZLzIow/12/1334819/jpeg/32x32/1/_/1/2/Coconut-preprocessing-steps.jpg/ELSvkAEYn63o7QMgBygH/8dE2u4gYU8s3-y8K1rDcUVQFQcA_juIzNeuokHtHzHA?size=2048x1536&size_mode=3)
+![coconut-preprocessing-steps](Coconut-preprocessing-steps.jpg)
 
 ## Notebooks summary:
 ### 1. "coconuts-tilegen":
