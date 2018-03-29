@@ -29,12 +29,12 @@
 ![coconut-preprocessing-steps](Coconut-preprocessing-steps.jpg)
 
 ## Notebooks summary:
-### 1. "coconuts-tilegen":
+### 1. "coconuts-tilegen":  *<-- not on repo yet, needs refactoring*
 - Reproject original GeoTIFF to WGS 84 
 - Create tiles and convert lat, lon to x,y display offset coordinates for all trees within each tile (15 tiles)
 
 
-### 2. "coconuts-imagegen":
+### 2. "coconuts-imagegen": *<-- not on repo yet, needs refactoring*
 - Generate 224px x 224px patches for each tile.
 - Convert x,y offsets for each tree point into square bbox coordinates (or rectangles at the borders)
 - Filter out patches that do not contain any trees
